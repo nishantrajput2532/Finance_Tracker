@@ -6,6 +6,7 @@ Object-Oriented Programming and modern C++17 features.
 ## Features
 - Add expenses with amount, category, date, and description
 - View all recorded expenses in a formatted table
+- Delete an expense by its number in the list
 - View a summary of total spending grouped by category
 - Automatically saves data to a CSV file and loads it on startup
 - Handles invalid input gracefully (e.g., text entered instead of a number)
